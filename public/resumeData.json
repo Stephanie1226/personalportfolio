@@ -1,0 +1,174 @@
+{
+  "main": {
+    "official_name":"Chieh (Stephanie) Wang",
+    "name":"Stephanie Wang",
+    "occupation":"software engineering student,",
+    "description":"currently study at University of Alberta, Electrical and Computer Engineering Department (Software Eng & Intelligent Sys)",
+    "image":"profilepic.jpg",
+    "bio":"I am an musician at heart, with an adventurer spirit and a passion of coding. I am always love to learn new things in software engineering as well as taking online courses on the topic I'm interested in. I was focus and interested in Machine Learning/Deep Learning in Computer Vision before, now I'm focus on web develop and frontend develop more.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "chiehwang1226@gmail.com",
+    "phone": "(+1) 587-643-1226",
+    "address":{
+      "street":"Whyte Avenue",
+      "city":"Edmonton",
+      "state":"AB",
+      "zip": "T6E 1X9"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/chieh-stephanie-wang-aa2732151/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Stephanie1226",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Alberta",
+        "location":"Edmonton, AB, Canada",
+        "degree":"• M.Eng. in ECE (Software Engineering & Intelligent Systems)",
+        "graduated":"Sep. 2018 - Present",
+        "description":"I've took multiple Software Engineering and Machine learning courses at school as well as taking online web developer courses on Udemy during the program."
+      },
+      {
+        "school":"Fu Jen Catholic University",
+        "location":"New Taipei City, Taiwan",
+        "degree":"• B.S. in Electrical Engineering",
+        "graduated":"Sep. 2014 - Jun. 2018",
+        "description":"Although I was under Electrical Engineering program, I was mainly focus on Machine Learning and Deep Learning in computer vision during my third and fourth year. I've also got more than 10 awards in academic excellence and fundings during these four years."
+      }
+    ],
+    "work":[
+      {
+        "company":"AiriA Innovation Corporation, Ltd",
+        "title":"part-time job",
+        "years":"Feb. 2018 – Jun. 2018, Taipei, Taiwan",
+        "description":"Examined and updated the product software. Conducted market survey to determine an appropriate price for product. "
+      }
+    ],
+    "publication":[
+      {
+        "title":"[1] Steffi Agino Priyanka, Yuan-Kai Wang, Chieh Wang, \"Effective Image Denoising Using Symmetric Convolution-Deconvolution Architecture,\" Computer Vision, Graphics, and Image Processing, Tainan, Taiwan, 2018."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"C",
+        "level":"90%"
+      },
+      {
+        "name":"Matlab",
+        "level":"55%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Implementation and Anlysis of Deep Learning in Human Detection",
+        "category":"Undergraduate research (Mandarin)",
+        "image":"DL_HumanDetection.png",
+        "url":"https://sites.google.com/mm.fju.edu.tw/swd-deeplearning/首頁?authuser=3"
+      },
+      {
+        "title":"Computer Vision Course (2017 winter)",
+        "category":"Undergraduate course (English)",
+        "image":"CV-course.png",
+        "url":"https://sites.google.com/mm.fju.edu.tw/cv-course-chiehwang/home?authuser=3"
+      },
+      {
+        "title":"Machine Learning Course (2016 winter)",
+        "category":"Undergraduate course (Mandarin)",
+        "image":"ML-course.png",
+        "url":"https://sites.google.com/mm.fju.edu.tw/chiehwang/home?authuser=3"
+      },
+      {
+        "title":"Image Analysis Course (2016 Winter)",
+        "category":"Undergraduate course (Mandarin)",
+        "image":"IA-course.png",
+        "url":"https://sites.google.com/mm.fju.edu.tw/iaswang/home?authuser=3"
+      }
+    ],
+    "mainprojects": [
+      {
+        "title":"Music Search Engine (On going project)",
+        "stitle":"Music Search Engine",
+        "skills":"Python, ReactJs, Redux, Neo4j, Flask API",
+        "description":"This is a music search engine for searching and listening to related music. Me and my project partner scrap all of the music data from MusicBrainz and IMSLP, use Neo4j graph database to manage the data, and use Flask API to serve as backend, React to serve as frontend.",
+        "image":"music_engine.png",
+        "url":"https://github.com/Stephanie1226/music_search"
+      },
+      {
+        "title":"Socket Board Game - Hanabi",
+        "stitle":"Socket Board Game",
+        "skills":"C/C++, Socket API",
+        "description":"Applied Socket API to program a self-designed 4-player online game. The rules of this board game is following the original Hanabi card game. Players connected to the server using IP address through Socket API. Server listens on the socket and waits for client (players) requests (sny changes with the cards).",
+        "image":"hanabi.png",
+        "url":"https://github.com/Stephanie1226/SocketGame"
+      },
+      {
+        "title":"Implementation and Anlysis of Deep Learning in Human Detection (Undergraduate research)",
+        "stitle":"DL in Human Detection",
+        "skills":"Python, Tensorflow, Ubuntu14.04",
+        "description":"Applied traditional Machine Learning algorithm (HOG-SVM, Haar Cascade) and Deep Learning algorithm (Faster-RCNN) in human detection. Analized and compared the results between traditional Machine Learning algorithm and Deep Learning algorithm.",
+        "image":"undergrad-project.png",
+        "url":"https://sites.google.com/mm.fju.edu.tw/swd-deeplearning/首頁?authuser=3"
+      },
+      {
+        "title":"Online Resume",
+        "stitle":"Online Resume",
+        "skills":"ReactJs, HTML, CSS",
+        "description":"Used ReactJS template designed by Tim Baker on GitHub, and futher developed as my personal website.",
+        "image":"myresume.png",
+        "url":"https://sites.google.com/mm.fju.edu.tw/iaswang/home?authuser=3"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
