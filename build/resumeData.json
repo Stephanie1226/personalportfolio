@@ -4,7 +4,7 @@
     "name":"Stephanie Wang",
     "occupation":"software engineering student,",
     "description":"currently study at University of Alberta, Electrical and Computer Engineering Department (Software Eng & Intelligent Sys)",
-    "image":"profilepic.jpg",
+    "image":"profilepic.png",
     "bio":"I am an musician at heart, with an adventurer spirit and a passion of coding. I am always love to learn new things in software engineering as well as taking online courses on the topic I'm interested in. I was focus and interested in Machine Learning/Deep Learning in Computer Vision before, now I'm focus on web develop and frontend develop more.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "chiehwang1226@gmail.com",
@@ -16,13 +16,8 @@
       "zip": "T6E 1X9"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1Dd746b-qFU8ENn_lW99WQrq-VjVW__0S/view?usp=sharing",
     "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/chieh-stephanie-wang-aa2732151/",
@@ -138,7 +133,7 @@
         "stitle":"Socket Board Game",
         "skills":"C/C++, Socket API",
         "description":"Applied Socket API to program a self-designed 4-player online game. The rules of this board game is following the original Hanabi card game. Players connected to the server using IP address through Socket API. Server listens on the socket and waits for client (players) requests (sny changes with the cards).",
-        "image":"hanabi.png",
+        "image":"hanabi-image.png",
         "url":"https://github.com/Stephanie1226/SocketGame"
       },
       {
