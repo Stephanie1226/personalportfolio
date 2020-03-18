@@ -5,8 +5,8 @@
     "occupation":"software engineering student,",
     "description":"currently study at University of Alberta, Electrical and Computer Engineering Department (Software Eng & Intelligent Sys)",
     "image":"profilepic.png",
-    "bio":"I am an musician at heart, with an adventurer spirit and a passion of coding. I am always love to learn new things in software engineering as well as taking online courses on the topic I'm interested in. I was focus and interested in Machine Learning/Deep Learning in Computer Vision before, now I'm focus on web develop and frontend develop more.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I am an musician at heart, with an adventurous spirit and a passion for coding. I always love to learn new things in software engineering as well as taking online courses on the topic I'm interested in. I was focused and interested in Machine Learning/Deep Learning in Computer Vision before, now I'm focused on web development and frontend development more.",
+    "contactmessage":"",
     "email": "chiehwang1226@gmail.com",
     "phone": "(+1) 587-643-1226",
     "address":{
@@ -38,14 +38,14 @@
         "location":"Edmonton, AB, Canada",
         "degree":"• M.Eng. in ECE (Software Engineering & Intelligent Systems)",
         "graduated":"Sep. 2018 - Present",
-        "description":"I've took multiple Software Engineering and Machine learning courses at school as well as taking online web developer courses on Udemy during the program."
+        "description":"I've taken multiple Software Engineering and Machine learning courses at school as well as taken online web development courses on Udemy on my own time."
       },
       {
         "school":"Fu Jen Catholic University",
         "location":"New Taipei City, Taiwan",
         "degree":"• B.S. in Electrical Engineering",
         "graduated":"Sep. 2014 - Jun. 2018",
-        "description":"Although I was under Electrical Engineering program, I was mainly focus on Machine Learning and Deep Learning in computer vision during my third and fourth year. I've also got more than 10 awards in academic excellence and fundings during these four years."
+        "description":"Although I was under Electrical Engineering program, I was mainly focused on Machine Learning and Deep Learning in computer vision during my third and fourth year. I've also received more than 10 awards in academic excellence and fundings during these four years."
       }
     ],
     "work":[
@@ -63,24 +63,8 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
         "name":"Python",
         "level":"90%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"70%"
-      },
-      {
-        "name":"CSS",
-        "level":"70%"
-      },
-      {
-        "name":"HTML5",
-        "level":"70%"
       },
       {
         "name":"C",
@@ -88,7 +72,23 @@
       },
       {
         "name":"Matlab",
-        "level":"55%"
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"65%"
+      },
+      {
+        "name":"Git",
+        "level":"65%"
       }
     ]
   },
@@ -150,7 +150,7 @@
         "skills":"ReactJs, HTML, CSS",
         "description":"Used ReactJS template designed by Tim Baker on GitHub, and futher developed as my personal website.",
         "image":"myresume.png",
-        "url":"https://sites.google.com/mm.fju.edu.tw/iaswang/home?authuser=3"
+        "url":"https://stephanieportfolio-39f22.firebaseapp.com"
       }
     ]
   },
