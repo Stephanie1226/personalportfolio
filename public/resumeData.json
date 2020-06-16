@@ -2,21 +2,21 @@
   "main": {
     "official_name":"Chieh (Stephanie) Wang",
     "name":"Stephanie Wang",
-    "occupation":"software engineering student,",
-    "description":"currently study at University of Alberta, Electrical and Computer Engineering Department (Software Eng & Intelligent Sys)",
+    "occupation":"software developer",
+    "description":"recently graduated from University of Alberta (Master of Engineering in Software Engineering and Intelligent Syetem)",
     "image":"profilepic.png",
-    "bio":"I am an musician at heart, with an adventurous spirit and a passion for coding. I always love to learn new things in software engineering as well as taking online courses on the topic I'm interested in. I was focused and interested in Machine Learning/Deep Learning in Computer Vision before, now I'm focused on web development and frontend development more.",
+    "bio":"First and foremost, I love, and I enjoy writing code. Ever since my first time learning C in high school, I fell in love with the feeling every time the compile ran successfully. Since then, it is always not enough with coding. For me, coding is technically a problem-solving skill that I have to get through the problems, solve it, and make it run. That's why I love it. This passion carried me through my education. When I had an exciting coding project, I can code for hours and hours without checking the time or checking on my social media until I finished the project.",
     "contactmessage":"",
     "email": "chiehwang1226@gmail.com",
     "phone": "(+1) 587-643-1226",
     "address":{
-      "street":"Whyte Avenue",
-      "city":"Edmonton",
+      "street":"",
+      "city":"Calgary",
       "state":"AB",
-      "zip": "T6E 1X9"
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/file/d/1Dd746b-qFU8ENn_lW99WQrq-VjVW__0S/view?usp=sharing",
+    "website": "https://chiehwang.page.link/cw20",
+    "resumedownload":"https://drive.google.com/file/d/1OMYdYi94TnJsDE86FSK3P8oFnnyU7xeA/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -37,7 +37,7 @@
         "school":"University of Alberta",
         "location":"Edmonton, AB, Canada",
         "degree":"• M.Eng. in ECE (Software Engineering & Intelligent Systems)",
-        "graduated":"Sep. 2018 - Present",
+        "graduated":"Sep. 2018 - Apr. 2020",
         "description":"I've taken multiple Software Engineering and Machine learning courses at school as well as taken online web development courses on Udemy on my own time."
       },
       {
@@ -71,7 +71,7 @@
         "level":"90%"
       },
       {
-        "name":"Matlab",
+        "name":"JavaScript",
         "level":"75%"
       },
       {
@@ -89,6 +89,10 @@
       {
         "name":"Git",
         "level":"65%"
+      },
+      {
+        "name":"Matlab",
+        "level":"60%"
       }
     ]
   },
@@ -121,7 +125,7 @@
     ],
     "mainprojects": [
       {
-        "title":"Music Search Engine (On going project)",
+        "title":"Music Search Engine",
         "stitle":"Music Search Engine",
         "skills":"Python, ReactJs, Redux, Neo4j, Flask API",
         "description":"This is a music search engine for searching and listening to related music. Me and my project partner scrap all of the music data from MusicBrainz and IMSLP, use Neo4j graph database to manage the data, and use Flask API to serve as backend, React to serve as frontend.",
@@ -145,24 +149,24 @@
         "url":"https://sites.google.com/mm.fju.edu.tw/swd-deeplearning/首頁?authuser=3"
       },
       {
-        "title":"Online Resume",
-        "stitle":"Online Resume",
-        "skills":"ReactJs, HTML, CSS",
-        "description":"Used ReactJS template designed by Tim Baker on GitHub, and futher developed as my personal website.",
-        "image":"myresume.png",
-        "url":"https://stephanieportfolio-39f22.firebaseapp.com"
+        "title":"Turtle Travel App",
+        "stitle":"Turtle Travel App",
+        "skills":"Flask, Python; ReactJs, Javascript, HTML, CSS",
+        "description":"A fun App useing Flask as backend and React as frontend.",
+        "image":"turtle.png",
+        "url":"https://github.com/Stephanie1226/turtle-travel"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"",
+        "user":""
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":""
       }
     ]
   }
